@@ -1,0 +1,6 @@
+path: rawdata
+train: images
+val: images
+
+nc: 3
+names: ['head and shoulders','wedge up','wedge down']
